@@ -1,19 +1,14 @@
 # Machine-Learning-Basics
 
-Tutorial de Machine Learning con Python
-Bienvenido a este tutorial de Machine Learning con Python. Este repositorio contiene un conjunto de ejemplos y explicaciones detalladas para ayudarte a comprender y aplicar técnicas de machine learning utilizando Python y bibliotecas populares como scikit-learn, pandas, numpy y matplotlib.
+Welcome to this Python Machine Learning tutorial. This repository contains a set of concepts and detailed explanations to help you understand and apply machine learning techniques using Python and popular libraries such as scikit-learn, pandas, numpy, and matplotlib.
 
-Contenido
-Preprocesamiento de Datos: Técnicas para limpiar y preparar tus datos antes de aplicar modelos de machine learning.
+## Contents
+- **Classification and Regression Models**: Implementation and evaluation of models such as K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and Logistic Regression.
 
-Modelos de Clasificación y Regresión: Implementación y evaluación de modelos como K-Nearest Neighbors (KNN), Support Vector Machines (SVM), y Regresión Logística.
+- **Dimensionality Reduction**: Use of techniques such as PCA (Principal Component Analysis) and t-SNE to visualize and reduce the dimensionality of data.
 
-Reducción de Dimensionalidad: Uso de técnicas como PCA (Análisis de Componentes Principales) y t-SNE para visualizar y reducir la dimensionalidad de los datos.
+- **Clustering**: Application of clustering algorithms such as K-Means and Hierarchical Clustering to group unlabeled data.
 
-Clustering: Aplicación de algoritmos de clustering como K-Means y Clustering Jerárquico para agrupar datos no etiquetados.
+- **Model Evaluation**: Methods to evaluate the performance of models using metrics such as accuracy, confusion matrix, and ROC curve.
 
-Evaluación de Modelos: Métodos para evaluar el rendimiento de los modelos utilizando métricas como la precisión, la matriz de confusión y la curva ROC.
-
-Este tutorial está diseñado tanto para principiantes como para aquellos con experiencia previa en machine learning que deseen profundizar en el uso de Python para análisis de datos y modelado predictivo.
-
-¡Esperamos que encuentres este tutorial útil y que te ayude a avanzar en tu viaje de aprendizaje en machine learning!
+This tutorial is designed for both beginners and those with prior machine learning experience who want to dive deeper into using Python for data analysis and predictive modeling.
