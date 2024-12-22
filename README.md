@@ -5,7 +5,7 @@ Welcome to this Python Machine Learning tutorial. This repository contains a set
 ## Contents
 - **Classification and Regression Models**: Implementation and evaluation of models such as K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and Logistic Regression.
 
-- **Dimensionality Reduction**: Use of techniques such as PCA (Principal Component Analysis) and t-SNE to visualize and reduce the dimensionality of data.
+- **Dimensionality Reduction**: Use of techniques such as PCA (Principal Component Analysis) and T-SNE to visualize and reduce the dimensionality of data.
 
 - **Clustering**: Application of clustering algorithms such as K-Means and Hierarchical Clustering to group unlabeled data.
 
